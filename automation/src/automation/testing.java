@@ -9,6 +9,7 @@ public class testing
 		int c;
 		c=a+b;
 		System.out.println("sum of the number " +c);
+		System.out.println("it is final result");
 		
 	}
 public static void main(String[] args) 
